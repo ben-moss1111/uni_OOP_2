@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\OOP Review Code\bin\Debug\netcoreapp3.1\OOP Review Code.exe
+C:\Users\Dell\source\repos\OOP Review Code\bin\Debug\netcoreapp3.1\OOP Review Code.deps.json
+C:\Users\Dell\source\repos\OOP Review Code\bin\Debug\netcoreapp3.1\OOP Review Code.runtimeconfig.json
+C:\Users\Dell\source\repos\OOP Review Code\bin\Debug\netcoreapp3.1\OOP Review Code.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\OOP Review Code\bin\Debug\netcoreapp3.1\OOP Review Code.dll
+C:\Users\Dell\source\repos\OOP Review Code\bin\Debug\netcoreapp3.1\OOP Review Code.pdb
+C:\Users\Dell\source\repos\OOP Review Code\obj\Debug\netcoreapp3.1\OOP Review Code.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\OOP Review Code\obj\Debug\netcoreapp3.1\OOP Review Code.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\OOP Review Code\obj\Debug\netcoreapp3.1\OOP Review Code.AssemblyInfo.cs
+C:\Users\Dell\source\repos\OOP Review Code\obj\Debug\netcoreapp3.1\OOP Review Code.dll
+C:\Users\Dell\source\repos\OOP Review Code\obj\Debug\netcoreapp3.1\OOP Review Code.pdb
